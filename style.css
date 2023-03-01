@@ -7,7 +7,7 @@ h1{
 }
 
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .name{
@@ -65,6 +65,9 @@ h2{
 #first-experience{
     border-left: 7px solid tomato;
 }
+#work{
+    font-weight: 700;
+}
 #second-experience{
     border-left: 7px solid blue;
 }
@@ -72,4 +75,5 @@ h2{
 footer p{
     text-align: center;
     font-weight: 500;
+    box-shadow: 5px 5px 10px  tomato;
 }
